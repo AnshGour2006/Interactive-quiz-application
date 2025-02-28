@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(137, 100, 100);
+  }
+
+
+
+  #header-image {
+    background-image: url("images/hea_img.gif");
+    width: 1257px;
+    height: 300px;
+    margin-bottom: -7px;
+  }
+
+
+  #navbar {
+    display: flex;
+    gap: 80px;
+    padding-top: 20px;
+    width: 100%;
+    height: 60px;
+    overflow: hidden;
+    background-color: rgb(245, 240, 94);
+    
+
+  }                            
+
+  #navbar a {
+    padding-left: 150px;
+    color: #eb7272;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+  }
+
+  #navbar a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(234, 0, 0);
+    -o-transition:.4s;
+    -ms-transition:.4s;
+    -moz-transition:.4s;
+    -webkit-transition:.4s;
+    font-size: 40px;
+    transition:.5s;
+  }
+
+  #navbar a button{
+    padding: 0;
+    border: none;
+    background: none;
+    background-color: transparent;
+    color: #eb7272;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  #navbar a button:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(234, 0, 0);
+    
+    -o-transition:.6s;
+    -ms-transition:.6s;
+    -moz-transition:.6s;
+    -webkit-transition:.6s;
+    font-size: 40px;
+    transition:.5s;
+  }
+
+  .content {
+    padding: 16px;
+  }
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .sticky+.content {
+    padding-top: 60px;
+  }
+
+  .quote_2 {
+    text-align: right;
+    border: #64c514;
+    background-color: bisque;
+    border-radius: 15px;
+  }
+
+  .cpm-logo {
+    
+    width: 388px;
+    height: 300px;
+    border-radius: 15px;
+    position: absolute;
+    top: 0px;
+    left: 1125px;
+  }
+
+  #front1{
+    border-radius: 100px;
+    width: 450px;
+    height: 500px;
+    
+  }
+
+  #front2{
+    border-radius: 30px;
+    width: 450px;
+    height: 500px;
+    border-radius: 100px;
+  }
+
+  .image-container img
+  {
+    transition: transform 0.3s ease-in-out;
+  } 
+
+.image-container:hover  img 
+ {
+  transform: scale(1.1); 
+ }
+
+  #block1 {
+    border: #64c514;
+    background-color: bisque;
+    border-radius: 15px;
+  }
+
+  .footer {
+    background-color: #4bb192;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+    border-radius: 15px;
+    bottom:0;height:150px
+  }
+
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+    /* background-color: #be2323; */
+    border-radius: 15px;
+  }
+
+  .footer-list {
+    float: right;
+  }
+
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  .What_we_do img{
+    width: 100%;
+    height: 400px;
+    
+    margin-top: -32px;
+  }
+  #main_bg1{
+    width: 90%;
+    height: 600px;
+    border-radius: 50px;
+    margin-left: 80px;
+  }
+
+
+
