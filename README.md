@@ -24,6 +24,7 @@ When it comes to testing, training professionals have a dilemma. “With all the
 //I am doing changes in readme ->Ansh Gour 
 
 The answer is a resounding, “Yes.”
+//I am doing further changes in readme->Aditya Patil
 
 Much research has been conducted to determine the benefits of tests, quizzes, and assessments in training. Most of this research points to several benefits that learning experience (LX) designers should understand. One example is from a 2010 study which concluded that testing requires learners to “retrieve information effortfully from memory, and that such effortful retrieval turns out to be a wonderfully powerful mnemonic device in many circumstances.” In a recent Richardson blog post, assessments can be used not only to test what people have learned, but can be used to motivate people to “want to” learn. In a third study in 2009, by giving learners a way to see their deficits, they will be more motivated to work on those deficits.
 >>>>>>> 576a59b (Initial commit - added project files)
