@@ -13,6 +13,8 @@ My project of Web development, a quiz website on which there will be questions o
 
 When it comes to testing, training professionals have a dilemma. “With all the focus on determining whether training helps people perform better, do we really need to include multiple choice quizzes in our e-learning? Don’t multiple choice quizzes insult the intelligence of our learners who are experienced, smart, adult learners who do not want to be treated like school children? I mean, I know that we want people to learn what is in the training and testing is a way to do that. But do these quizzes really do anything for anyone?”
 
+Amritpal Singh
+//This project is a frontend project 
 
 // Ansh Gour
 .. Basically in this website we use html css and js but mostly js i used for responsivenss
@@ -20,7 +22,7 @@ When it comes to testing, training professionals have a dilemma. “With all the
 //Ansh Gour
 //This is my First year -ist sem project 
 
-..This changes is done by aditya patil 
+..This changes is done by Aditya Patil and Amritpal Singh.
 //I am doing changes in readme ->Ansh Gour 
 
 The answer is a resounding, “Yes.”
