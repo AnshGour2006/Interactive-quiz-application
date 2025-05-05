@@ -1,0 +1,30 @@
+name: Frontend Code Lint
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    name: Run HTML, CSS, and JS checks
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install CLI linters
+        run: |
+          npm install -g htmlhint stylelint eslint
+
+      - name: Run HTMLHint (HTML Linter)
+        run: htmlhint **/*.html || true
+
+      - name: Run Stylelint (CSS Linter)
+        run: stylelint "**/*.css" || true
+
+      - name: Run ESLint (JS Linter)
+        run: eslint "**/*.js" || true
