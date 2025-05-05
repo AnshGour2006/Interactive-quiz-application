@@ -8,12 +8,12 @@
   
   .contact-me h2 {
     color: #fff;
-    margin-left: 40px;
+    margin-left: 45px;
   }
   
   .contact-me p , .contact-me address{
     color: #cddbd8;
-    margin-left: 40px;
+    margin-left: 45px;
   }
   .contact-me p strong{
     color: #d1d6da;
@@ -30,7 +30,7 @@
   .contact-me .form label{
     display: block;
     color: #d1d6da;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     margin-top: 20px;
   }
   .contact-me .form input[type="text"]{
