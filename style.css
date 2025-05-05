@@ -2,16 +2,16 @@ body{
     font-family: 'Times New Roman';
 }
 .main-container{
-    width: 100%;
+    width: 105%;
 }
 .flex-container{
-    width: 100%;
+    width: 105%;
     display: flex;
     background-color: black;
 }
 .menu{
     min-width: 200px;
-    color: white;
+    color: grey;
     font-size: 1.5em;
     text-align: center;
     padding-top: 30px;
